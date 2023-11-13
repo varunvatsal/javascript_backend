@@ -1,0 +1,1 @@
+npm i axios (for data request handling)
