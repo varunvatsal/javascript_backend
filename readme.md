@@ -4,7 +4,7 @@
 
 1) npm init
 2) npm i express (for routing)
-
+3) npm i mongoose (for data modeling, validation etc)
 
 add "type": "module" to use import from syntax in package.json
 
