@@ -12,5 +12,6 @@ moon modler -> data modeling,
 eraser.io -> data modeling,
 github codespaces,
 stackblitz,
+Cloudinary(to upload video, images etc)
 
 ### how to read mongoose documentation
