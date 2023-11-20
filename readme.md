@@ -6,6 +6,8 @@
 2) npm install
 3) npm i express (for routing)
 4) npm i mongoose (for data modeling, validation etc)
+5) npm i nodemon (for restarting the servers automatically)
+6) npm i -D prettier (guess)
 
 add "type": "module" to use import from syntax in package.json
 
