@@ -11,7 +11,7 @@
 7) always wrap the code in try and catch when making database connections
 8) database is always in another continent, thus it time to connect to it, so always use async await
 
-add "type": "module" to use import from syntax in package.json
+add "type": "module" to use 'import from' syntax in package.json
 
 moon modler -> data modeling,
 eraser.io -> data modeling,
