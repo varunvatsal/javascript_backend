@@ -21,7 +21,6 @@ connectDB()//async methods returns a promise
         console.log(`ERROR: ${err}`)
         throw err
     }
-    
 })
 .catch((err)=>{
     console.log("MONGO db connection failed !!", err)

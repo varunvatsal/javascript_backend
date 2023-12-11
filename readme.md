@@ -10,6 +10,7 @@
 6) npm i -D prettier (guess)
 7) always wrap the code in try and catch when making database connections
 8) database is always in another continent, thus it time to connect to it, so always use async await
+9) npm i cookie-parser cors
 
 add "type": "module" to use 'import from' syntax in package.json
 
