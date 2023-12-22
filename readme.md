@@ -11,6 +11,10 @@
 7) always wrap the code in try and catch when making database connections
 8) database is always in another continent, thus it time to connect to it, so always use async await
 9) npm i cookie-parser cors
+10) npm i cors
+11) npm install mongoose-aggregate-paginate-v2
+12) npm i bcrypt
+13) npm i jsonwebtoken
 
 add "type": "module" to use 'import from' syntax in package.json
 
@@ -22,5 +26,5 @@ Cloudinary(to upload video, images etc),
 git ignore generator,
 nodemon(restarts server when any chage is detected),
 mongodb atlas(online database)
-
+bearertoken -> whoever has this token is allowed to trade in data
 ### how to read mongoose documentation
