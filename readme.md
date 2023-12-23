@@ -15,6 +15,8 @@
 11) npm install mongoose-aggregate-paginate-v2
 12) npm i bcrypt
 13) npm i jsonwebtoken
+14) npm i multer
+15) npm install cloudinary
 
 add "type": "module" to use 'import from' syntax in package.json
 
