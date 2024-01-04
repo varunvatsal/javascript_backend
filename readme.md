@@ -29,4 +29,5 @@ git ignore generator,
 nodemon(restarts server when any chage is detected),
 mongodb atlas(online database)
 bearertoken -> whoever has this token is allowed to trade in data
+thunder client for api testing
 ### how to read mongoose documentation
